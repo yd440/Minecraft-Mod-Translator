@@ -1,0 +1,2 @@
+# Minecraft-Mod-Translator
+minecraftのMODを翻訳するリソースパックを生成します。現在MOD本体とpatchouliにのみ対応しています
