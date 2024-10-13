@@ -1,6 +1,7 @@
 # MinecraftMOD根本翻訳ツール
 - このツールは、JAVA版MinecraftのMODを翻訳するためのリソースパックを自動生成します。現在、MOD本体とPatchouliに対応しています。
-- ダウンロードページURL　https://github.com/yd440/Minecraft-Mod-Translator/releases/tag/V1.1
+- ダウンロードページURL　https://github.com/yd440/Minecraft-Mod-Translator/releases/tag/V1.2
+  
 ## *使い方*
 1. 初回のみ、パックフォルダーのパスを指定します。
 2. 翻訳するMODに合わせて、Minecraftのバージョンを選択します。
